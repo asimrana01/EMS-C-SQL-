@@ -1,4 +1,4 @@
-# EMS-C-SQL-
+# EMS-C#-SQL-
 
 A basic desktop-based Employee Management System using Windows Forms and SQL Server.
 
